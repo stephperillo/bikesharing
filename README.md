@@ -42,19 +42,21 @@ People of all genders tend to rent bikes for no longer than an hour.
 
 The following heatmap displays the number of bike trips by gender for each hour of each day of the week:
 
-![gender_by_hour.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/gender_by_hour.png)
+![trips_by_gender.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/trips_by_gender.png)
 
 I then created a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type:
 
-![trips_by_gender.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/trips_by_gender.png)
+![trips_by_gender_by_weekday.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/trips_by_gender_by_weekday.png)
 
 Male subsribers most often use NYC Citi Bikes on Thursdays and Fridays compared to other weekdays. Similarly, females tend to use bikes mainly during those same times.
 
-![trips_by_gender_by_weekday.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/trips_by_gender_by_weekday.png)
+![avg_trip_duration_by_birthyear.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/avg_trip_duration_by_birthyear.png)
 
 Younger riders tend to use bikes longer. There are a few outliers, such as riders born in 1891 (shown by the peak).
 
-![avg_trip_duration_by_birthyear.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/avg_trip_duration_by_birthyear.png)
+![starting.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/starting.png)
+
+The top starting locations in NYC are in Manhattan, the heart of the Big Apple where most iconic points of interest are located. 
 
 ## Summary
 
