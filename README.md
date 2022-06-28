@@ -4,7 +4,7 @@
 
 This analysis examines bike trip data to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-I used New York City Citi Bike data as a model so that one may have a better idea of the type of Des Moines users that a similar bike sharing program would interest.
+I used New York City Citi Bike data as a model so that one may have a better idea of the type of Des Moines users that a bike sharing program would interest.
 
 To prepare the data, I used Pandas to convert the "tripduration" column to datetime format.
 
