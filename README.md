@@ -4,11 +4,11 @@
 
 This analysis examines bike trip data to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-I used NYC Citi Bike data as a model so that one may have a better idea of the type of Des Moines users that a similar bike sharing program would interest.
+I used New York City Citi Bike data as a model so that one may have a better idea of the type of Des Moines users that a similar bike sharing program would interest.
 
 To prepare the data, I used Pandas to convert the "tripduration" column to datetime format.
 
-![converted_to_datetime.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/convered_to_datetime.png)
+![converted_to_datetime.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/converted_to_datetime.png)
 
 ## Results
 
@@ -24,7 +24,7 @@ This graph shows the length of time that bikes are checked out for all riders:
 
 ![checkout_times.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/checkout_times.png)
 
-The majority of bike rental durations are less than an hour. This supports the fact that most users (75%) are Subscribers. 
+The majority of bike rental durations are less than an hour. This supports the fact that most users (over 80%) are Subscribers. 
 
 ![customers.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/customers.png)
 
@@ -50,7 +50,7 @@ I then created a heatmap that shows the number of bike trips broken down by gend
 
 Male subsribers most often use NYC Citi Bikes on Thursdays and Fridays compared to other weekdays. Similarly, females tend to use bikes mainly during those same times.
 
-![trips_by_gender_by_weekday.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/.png)
+![trips_by_gender_by_weekday.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/trips_by_gender_by_weekday.png)
 
 Younger riders tend to use bikes longer. There are a few outliers, such as riders born in 1891 (shown by the peak).
 
