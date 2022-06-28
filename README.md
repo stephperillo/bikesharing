@@ -24,7 +24,7 @@ This graph shows the length of time that bikes are checked out for all riders:
 
 ![checkout_times.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/checkout_times.png)
 
-The majority of bike rental durations are less than an hour. This supports the fact that most users (over 80%) are Subscribers. 
+The majority of bike rental durations are less than an hour. This supports the fact that most users (over 80%) are Subscribers in NYC, indicating that many may be commuting to/from work via bicycle. 
 
 ![customers.png](https://github.com/stephperillo/bikesharing/blob/main/Resources/customers.png)
 
